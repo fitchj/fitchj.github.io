@@ -1,11 +1,11 @@
 ## Welcome to Josh Fitch's Portfolio Page
 
-#Expierence
+# Expierence
 
--Java
--Python
--C
--C#
+- Java
+- Python
+- C
+- C#
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
