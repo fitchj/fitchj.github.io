@@ -1,6 +1,6 @@
 # Welcome to Josh Fitch's Portfolio Page
 
-## Expierence
+## Experience
 
 - Java
 - Python
