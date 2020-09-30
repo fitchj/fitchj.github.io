@@ -9,4 +9,4 @@
 
 ## Current Project:
 
-- https://github.com/ironsj/GVSU-CIS350-TeamBoo.git
+- (https://github.com/ironsj/GVSU-CIS350-TeamBoo.git)
